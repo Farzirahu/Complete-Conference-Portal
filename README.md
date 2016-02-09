@@ -1,0 +1,2 @@
+# Complete-Conference-Portal
+This is a complete conference portal developed using PHP, JavaScript, MySQL, Jquery and AJAX. It includes a registartion portal, dashboard view, update options and Abstract Submission Portal developed using ajax and php. An admin portal is also includes to manages user registration, view and edit information of users, download user abstracts in certain format, track user activity and update certain pages on the website. This portal was used in "International Conference on Translational Biotechnology(Biosangam) 2016" held at NIT Allahabad.
